@@ -1,2 +1,1 @@
-# simple_shell
-simple UNIX command  interpreter
+Coding our own Simple Shell command
